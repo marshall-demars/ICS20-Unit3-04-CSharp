@@ -29,7 +29,7 @@ class Program
 
         // output
         Console.WriteLine("");
-        Console.WriteLine( fahrenheit + "℉ in Celsius is: " + celsius.ToString("0.00") + "℃");
+        Console.WriteLine(fahrenheit + "℉ in Celsius is: " + celsius.ToString("0.00") + "℃");
         Console.WriteLine("\nDone.");
     }
 }
